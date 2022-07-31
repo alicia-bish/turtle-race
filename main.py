@@ -46,36 +46,3 @@ while is_race_on:
 
 
 screen.exitonclick()
-
-
-# def move_forwards():
-#     skipper.fd(10)
-#
-#
-# def move_backwards():
-#     skipper.back(10)
-#
-#
-# def turn_clockwise():
-#     skipper.right(10)
-#
-#
-# def turn_counterclock():
-#     skipper.left(10)
-#
-#
-# def clear_drawing():
-#     skipper.clear()
-#     skipper.penup()
-#     skipper.home()
-#     skipper.pendown()
-#
-#
-# screen.listen()
-# screen.onkey(fun=move_forwards, key="w")
-# screen.onkey(fun=move_backwards, key="s")
-# screen.onkey(fun=turn_counterclock, key="a")
-# screen.onkey(fun=turn_clockwise, key="d")
-# screen.onkey(fun=clear_drawing, key="c")
-#
-# screen.exitonclick()
